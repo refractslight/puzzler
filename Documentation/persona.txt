@@ -1,0 +1,8 @@
+Name: Jenny
+Age: 24
+Quote: "I want to try VR before committing to a purchasing a headset!"
+VR Experience: none.
+
+Jenny is a casual gamer who enjoys rpgs and puzzle games. She's heard of VR, but hasn't had first-hand experience. She wants to try VR on her phone with a cardboard app before making any kind of purchase of an HMD.
+
+Puzzler is a mobile VR application for new VR users which challenges them to solve a familiar type of puzzle in a new way.

@@ -6,6 +6,7 @@ public class lightUp : MonoBehaviour {
 	public GameObject gameLogic;
 	private Material defaultMaterial;
 
+
 	// Use this for initialization
 	void Start () {
 		defaultMaterial = this.GetComponent<MeshRenderer> ().material; //Save our initial material as the default
